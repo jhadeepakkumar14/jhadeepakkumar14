@@ -14,17 +14,3 @@
  <a href = "mailto: jhadeepakkumar14@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="#">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jhadeepakkumar14&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jhadeepakkumar14&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-![Deepak's Activity Graph](https://activity-graph.herokuapp.com/graph?username=jhadeepakkumar14&Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
